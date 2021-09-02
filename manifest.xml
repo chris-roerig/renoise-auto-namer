@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6.1</ApiVersion>
+  <Id>com.chrisroerig.AutoNamer</Id>
+  <Version>1.0</Version>
+  <Author>Jugwine [@jugwine1]</Author>
+  <Name>AutoNamer</Name>
+  <Category>Project</Category>
+  <Description>Remove the annoyance of using brain power to name songs</Description>
+  <Homepage>https://github.com/chris-roerig/renoise-auto-namer</Homepage>
+</RenoiseScriptingTool>
